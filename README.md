@@ -1,7 +1,8 @@
 # Portfolio
 ### My works for the portfolio:
-* **My CV** https://andrey-pivtorak.github.io/Portfolio/CV/
+* **CV** https://andrey-pivtorak.github.io/Portfolio/CV/
+* **Landing-page** https://andrey-pivtorak.github.io/Portfolio/landing-page/
 * **Image-gallery** https://andrey-pivtorak.github.io/Portfolio/image-gallery/
 * **Memory-game** https://andrey-pivtorak.github.io/Portfolio/memory-game/
 * **Luxtrader_Shop** https://andrey-pivtorak.github.io/Portfolio/Landing_page_Luxtrader_Shop/
-* **Internet_Shop** https://andrey-pivtorak.github.io/Portfolio/Internet_Shop
+* **Internet_Shop** https://andrey-pivtorak.github.io/Portfolio/Internet_Shop/
