@@ -1,6 +1,5 @@
 # Portfolio
 ### My works for the portfolio:
-* **CV** https://andrey-pivtorak.github.io/Portfolio/CV/
 * **Landing-page** https://andrey-pivtorak.github.io/Portfolio/landing-page/
 * **Image-gallery** https://andrey-pivtorak.github.io/Portfolio/image-gallery/
 * **Memory-game** https://andrey-pivtorak.github.io/Portfolio/memory-game/
